@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DevProfile</string>
+    <string name="banner">banner</string>
+    <string name="logo">logo</string>
+    <string name="favorite">favorite</string>
+    <string name="file">file</string>
+    <string name="data">data</string>
+    <string name="image">image</string>
+    <string name="video">video</string>
+    <string name="code">code</string>
+    <string name="camera">camera</string>
+    <string name="devslopes">Devslopes</string>
+</resources>
